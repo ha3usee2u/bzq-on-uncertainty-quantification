@@ -1,7 +1,7 @@
 # bzq-on-uncertainty-quantification
 ## 📘 Overview
 
-This repository contains a collection of `.ipynb` notebooks documenting my experiments on uncertainty quantification. Please note that some notebooks include **hardcoded file paths**, which means they may **not run correctly on other machines** without modification.
+This repository contains a collection of `.ipynb` notebooks documenting raw experiments on uncertainty quantification. Please note that some notebooks include **hardcoded file paths**, which means they may **not run correctly on other machines** without modification.
 
 These notebooks are intended primarily for:
 - Recording experimental setups and results
